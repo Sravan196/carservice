@@ -11,5 +11,5 @@ This Java project allows users to book car service slots, make payments, and man
 
 ## Technologies Used
 - Java
-- File handling (for data storage)
+- Collections (for data storage)
 
